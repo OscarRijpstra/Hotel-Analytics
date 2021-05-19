@@ -4,11 +4,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>opt2.ijsvereniging</groupId>
-  <artifactId>ijsvereniging</artifactId>
+  <groupId>opt3.hotel-analytics</groupId>
+  <artifactId>hotel-analytics</artifactId>
   <version>1.0</version>
 
-  <name>ijsvereniging</name>
+  <name>hotel-analytics</name>
+
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
